@@ -111,5 +111,5 @@ Hệ thống phân tán là một yếu tố quan trọng trong nhiều ứng d�
 
 ### Ngày: 06/05/2025
 
-**Link bài viết**: [Link bài viết của bạn trên Canvas](URL_BLOG_CANVAS)
+
 
